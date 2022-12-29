@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "544421920028",
+    "project_id": "flutter-personal-expenses-crud",
+    "storage_bucket": "flutter-personal-expenses-crud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544421920028:android:baff6d1f730ab031980ed9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_personal_expenses_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544421920028-3495n8iurkshtj5banargajs1obn4q4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7WiIJC1FO1-0LLTqxkLayw11IYUodNiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544421920028-3495n8iurkshtj5banargajs1obn4q4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
